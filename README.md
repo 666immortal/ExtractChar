@@ -11,7 +11,7 @@
 
 #### 运行结果
 
-![提取文本](D:\SVMdemo\cut.JPG)
+![提取文本](D:\ExtractChar\cut.JPG)
 
 
 
