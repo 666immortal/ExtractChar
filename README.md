@@ -11,7 +11,7 @@
 
 #### 运行结果
 
-![提取文本](D:\ExtractChar\cut.JPG)
+![提取文本](https://github.com/666immortal/ExtractChar/blob/master/ScreenShot.JPG)
 
 
 
